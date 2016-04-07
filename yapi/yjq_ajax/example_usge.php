@@ -17,7 +17,7 @@ search for 1) to see the first 2) for the second etc
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-			  <!-- 1) ytab is the class is the selector that triggers the ajax call -->
+			  <!-- 1) ytab is the class  selector that triggers the ajax call -->
               <li class="ytab active" yurl="yapi/yjq_ajax/example_content.php?yid= 1"><a href="#">page1</a></li>
               <li class="ytab " yurl="yapi/yjq_ajax/example_content.php?yid= 2"><a href="#">page2</a></li>
               <li class="ytab " yurl="yapi/yjq_ajax/example_content.php?yid= 3"><a href="#">page3</a></li>
