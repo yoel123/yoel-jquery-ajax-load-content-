@@ -18,10 +18,11 @@ yinit_ajax_tabs(tab_selector,content_selector)
 </pre>
 tab_selector- its the selector of the ajax link
 
-content_selector- where the the ajaxs return content will appear.
-the id must be ypreloader 
+content_selector- where the the ajax returnd content will appear.
+
 
 also add a loading div:
+the id must be ypreloader 
 <pre>
   &ltdiv id="ypreloader"&gt
 				 Loading...				
