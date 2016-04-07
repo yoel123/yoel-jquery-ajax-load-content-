@@ -20,10 +20,10 @@ content_selector- where the the ajaxs return xontent will appear.
 the id must be ypreloader 
 
 also add a loading div:
-<pre>
+<pre><![CDATA[
   <div id="ypreloader">
 				 Loading...				
-  </div>
+  </div>]]>
 </pre>
 
 yapi/yjq_ajax/example_use gives a more practical example use.
