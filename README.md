@@ -7,10 +7,12 @@ basically loading different pages without refreshing the browser.
 
 
 <b>how to use</b>: see yapi/yjq_ajax/example_use .php<br>
+
 and also yapi/yjq_ajax/example_content.php to see where the content is coming from.
 
 include yapi/yjq_ajax/js/script.js
 and then add this js line of code:
+
 <pre>
 yinit_ajax_tabs(tab_selector,content_selector)
 </pre>
